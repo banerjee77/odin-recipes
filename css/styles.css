@@ -35,3 +35,9 @@ li {
     font-size: 28px;
     font-family: 'Times New Roman', Times, serif;
 }
+
+#waffles-para {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 12px;
+}
