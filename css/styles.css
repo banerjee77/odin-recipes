@@ -23,7 +23,8 @@ li {
     font-family: 'Times New Roman', Times, serif;
 }
 
-#waffles-image {
+#waffles-image,
+#spaghetti-image {
     display: block;
     padding: 24px;
     margin: 20px auto;
