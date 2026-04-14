@@ -25,7 +25,8 @@ li {
 }
 
 #waffles-image,
-#spaghetti-image {
+#spaghetti-image,
+#chicken-image {
     display: block;
     padding: 24px;
     margin: 20px auto;
