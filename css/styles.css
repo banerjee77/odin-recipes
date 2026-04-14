@@ -16,7 +16,8 @@ li {
 }
 
 /* Adding styles for waffles.html page */
-#waffles {
+#waffles,
+#chicken {
     color: rgb(49, 93, 111);
     background-color: #eeeeee;
     font-size: 36px;
@@ -63,4 +64,8 @@ li {
 
 .spa-describe {
     color: rgb(2, 88, 64);
+}
+
+#chicken {
+    color: rgb(199, 8, 8);
 }
