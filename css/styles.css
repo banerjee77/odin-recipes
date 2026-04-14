@@ -29,3 +29,9 @@ li {
     margin: 20px auto;
     background-color: #eeeeee;
 }
+
+.waffles-describe {
+    color: rgb(49, 93, 111);
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
