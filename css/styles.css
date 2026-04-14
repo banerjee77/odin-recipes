@@ -48,3 +48,11 @@ li {
     list-style: lower-roman;
     padding: 8px;
 }
+
+/* Adding styles for spaghetti.html page */
+#spaghetti {
+    background-color: #eeeeee;
+    color: rgb(2, 88, 64);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+}
