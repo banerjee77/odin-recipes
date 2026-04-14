@@ -31,7 +31,8 @@ li {
     background-color: #eeeeee;
 }
 
-.waffles-describe {
+.waffles-describe,
+.spa-describe {
     color: rgb(49, 93, 111);
     font-size: 28px;
     font-family: 'Times New Roman', Times, serif;
@@ -56,4 +57,8 @@ li {
     color: rgb(2, 88, 64);
     font-family: 'Times New Roman', Times, serif;
     font-size: 36px;
+}
+
+.spa-describe {
+    color: rgb(2, 88, 64);
 }
