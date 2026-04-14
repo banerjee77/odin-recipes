@@ -16,6 +16,9 @@ li {
 }
 
 /* Adding styles for waffles.html page */
-h1 {
-    color: maroon;
+#waffles {
+    color: rgb(49, 93, 111);
+    background-color: #eeeeee;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
 }
