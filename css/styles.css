@@ -41,3 +41,10 @@ li {
     font-family: 'Times New Roman', Times, serif;
     padding: 12px;
 }
+
+.one {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: lower-roman;
+    padding: 8px;
+}
