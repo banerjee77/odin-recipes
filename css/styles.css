@@ -1,10 +1,5 @@
 /* All the CSS styles gees here */
-body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background-color: rgb(161, 151, 151);
-}
+
 h1 {
     text-align: center;
     font-size: 36px;
@@ -21,3 +16,6 @@ li {
 }
 
 /* Adding styles for waffles.html page */
+h1 {
+    color: maroon;
+}
