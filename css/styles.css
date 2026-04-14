@@ -78,7 +78,8 @@ li {
     color: rgb(199, 8, 8);
 }
 
-.box-one {
+.box-one,
+.box-three {
     background-color: lightsteelblue;
 }
 
